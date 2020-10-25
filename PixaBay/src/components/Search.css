@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    -webkit-box-shadow: 15px 22px 36px -9px rgba(0,0,0,0.75);
+-moz-box-shadow: 15px 22px 36px -9px rgba(0,0,0,0.75);
+box-shadow: 15px 22px 36px -9px rgba(0,0,0,0.75);
+background: rgb(2,26,46);
+background: linear-gradient(90deg, rgba(2,26,46,1) 2%, rgba(7,240,198,1) 52%, rgba(0,255,218,1) 100%);
+}
+.input {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    border-style: none;
+    border-radius: 3px;
+    width: 50%;
+}
